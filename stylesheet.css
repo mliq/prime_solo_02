@@ -1,0 +1,11 @@
+body {
+  background-color:#1EF6FF;
+}
+ul {
+   list-style: square inside url('bullet_cat_sm.png');
+}
+li {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
