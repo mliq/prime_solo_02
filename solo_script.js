@@ -47,10 +47,10 @@ function calculateSTI(array){
     bonus = 0.13;
   }
 
-  newArray[1] = bonus;
-  newArray[2] = Math.round(baseSalary * (1.0 + bonus)*100)/100;
+  newArray[1] = " "+bonus;
+  newArray[2] = " "+Math.round(baseSalary * (1.0 + bonus)*100)/100;
   // BUG 3: no rounding on newArray[3] as instructed (I rounded newArray[2] as well.
-  newArray[3] = Math.round(baseSalary * bonus);
+  newArray[3] = " "+Math.round(baseSalary * bonus);
   console.log(newArray[0] + " " + newArray[1] + " " + newArray[2] + " " + newArray[3]);
   //Prints array to console.
   return newArray;
