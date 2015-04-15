@@ -9,11 +9,18 @@ ul {
    /*list-style: square inside url('bullet_cat_sm.png');*/
    display:block;
    text-align: center;
-   margin: 10% 25%;
+   margin: 5% 25% 10%;
 }
 li {
   font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
   font-size: 30px;
   padding-bottom: 10px;
   padding-right: 20px;
+}
+#cat {
+  display: block;
+  /*height: 400px;
+  width: 375px;*/
+  margin: -70px auto 5px auto;
+  border-radius: 20px;
 }
