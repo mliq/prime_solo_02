@@ -1,8 +1,7 @@
 # Three Bugs
 Gosh darn it, our code for our STI solver has three bugs!
 
-Code has been added for you to write the information to the DOM. Read each line and think conceptually about what
-the code is 'telling' you.
+Code has been added for you to write the information to the DOM. Read each line and think conceptually about what the code is 'telling' you.
 
 Make sure to reference the original challenge for the specific notes on what the application is supposed to do.
 
@@ -14,13 +13,12 @@ Additionally, try using console.logs strategically to see if you can isolate the
 Once you have found an issue, go ahead and make the correction.
 
 At the top of the document, add comments about the errors that you have found.
-Make sure to severe the connection to this remote repo and check your work into your own remote repo!
+Make sure to sever the connection to this remote repo and check your work into your own remote repo!
 
 Good luck!
 
 ## Hard Mode
-Correct the output to the DOM so that it includes spaces between each set of information, rather than be bundled 
-close as it is now.
+Correct the output to the DOM so that it includes spaces between each set of information, rather than be bundled close as it is now.
 
 Example, "information,information,information" > "information, information, information"
 
